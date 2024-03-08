@@ -1,14 +1,14 @@
-### <h2> Hi there 👋</h2>
+### <h2> Hi 👋</h2>
 <h3>I'm Sebastian 🌱</h3>
-Passionate about web development💻. Although my heart is more on the back side ❤️, I am not afraid to take risks and create interfaces that are user-friendly and intuitive.⚡
+Passionate about web development💻. Although my heart is on the Back-End side ❤️, I am not afraid to face challenges on the Front-End and create friendly and intuitive interfaces for users.⚡
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About me
 
-💡 I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 I'm currently studying Systems engineer.\
-🔭 I’m currently working on strengthening my knowledge.
+💡 I like to explore new technologies and develop agile and relevant solutions.\
+🎓 I am currently a student in my last semester of Systems Engineering.\
+🔭 I am strengthening my knowledge, studying on my own.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -21,7 +21,7 @@ Passionate about web development💻. Although my heart is more on the back side
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contact
 
 <p>
 <a href="https://www.linkedin.com/in/sebastianriossanchez"><img src="https://img.shields.io/badge/-Sebastian-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
