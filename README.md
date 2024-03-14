@@ -8,6 +8,10 @@ Passionate about web development💻. Although my heart is on the Back-End side 
 🎓 I am currently a student in my last semester of Systems Engineering.\
 🔭 I am strengthening my knowledge, studying on my own.
 
+### <h3>Projects </h3>
+Coming soon... (I'm building it 🙂)
+🧨🕛🛠️
+
 ### 🛠 &nbsp;Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
