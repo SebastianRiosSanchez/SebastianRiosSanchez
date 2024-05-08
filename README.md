@@ -10,6 +10,8 @@ Passionate about web development💻. Although my heart is on the Back-End side 
 
 ### <h3>Projects </h3>
 Coming soon... (I'm building it 🙂)
+- This repository contains a series of exercises developed in Java. https://github.com/SebastianRiosSanchez/javaRepository
+- API REST with Java & Springboot(Hibernate, Maven, SprinSecurity), MyQSL. https://github.com/SebastianRiosSanchez/api_la40
 🧨🕛🛠️
 
 ### 🛠 &nbsp;Tech Stack 
